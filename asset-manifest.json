@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/online-newspaper/static/css/main.a379d2fa.chunk.css",
-    "main.js": "/online-newspaper/static/js/main.95ddf400.chunk.js",
-    "main.js.map": "/online-newspaper/static/js/main.95ddf400.chunk.js.map",
+    "main.js": "/online-newspaper/static/js/main.2d5a2ada.chunk.js",
+    "main.js.map": "/online-newspaper/static/js/main.2d5a2ada.chunk.js.map",
     "runtime~main.js": "/online-newspaper/static/js/runtime~main.477aaccc.js",
     "runtime~main.js.map": "/online-newspaper/static/js/runtime~main.477aaccc.js.map",
     "static/js/2.d6a534e5.chunk.js": "/online-newspaper/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/online-newspaper/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/online-newspaper/index.html",
-    "precache-manifest.eb7c75af28bf32adb3e612a342ebe912.js": "/online-newspaper/precache-manifest.eb7c75af28bf32adb3e612a342ebe912.js",
+    "precache-manifest.4edac4a2c936603bbd0a4010f9e305dc.js": "/online-newspaper/precache-manifest.4edac4a2c936603bbd0a4010f9e305dc.js",
     "service-worker.js": "/online-newspaper/service-worker.js",
     "static/css/main.a379d2fa.chunk.css.map": "/online-newspaper/static/css/main.a379d2fa.chunk.css.map"
   }
