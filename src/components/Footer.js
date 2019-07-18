@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Date from "./Header/Date";
+import Date from "./Header/DateWidget";
 
 class Footer extends Component {
   render() {

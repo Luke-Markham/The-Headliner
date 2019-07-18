@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import DateCounter from "./Date";
-import WeatherWidget from "./WeatherAPI";
+import DateCounter from "./DateWidget";
+import WeatherWidget from "./WeatherWidget";
 class Header extends Component {
   render() {
     return (
@@ -14,8 +14,7 @@ class Header extends Component {
         <DateCounter className="date-counter" />
         <WeatherWidget
           className="weather-widget"
-          userLat={this.props.userLat}
-          userLon={this.props.userLon}
+          weather={this.props.weather}
         />
       </header>
     );
